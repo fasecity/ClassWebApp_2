@@ -36,3 +36,17 @@ input[type="select"] {
         padding: 0;
     }
 }
+.jumbotron {
+    background-image: url('lane-1323940_960_720.jpg');
+    
+}
+h1, .h1 {
+    font-size: 36px;
+    text-emphasis-color :aliceblue;
+
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
