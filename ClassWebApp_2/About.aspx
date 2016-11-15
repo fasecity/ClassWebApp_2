@@ -2,6 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
+   <%-- why u were for whole week--%>
   <div>
       <p>Mohamoud mohamed</p>
   </div>
